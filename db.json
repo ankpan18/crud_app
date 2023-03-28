@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "name": "Ankur Panthri",
+      "email": "panthriankur@outlook.com",
+      "phone": "564684611",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "Ramesh",
+      "email": "ram@gmail.com",
+      "phone": "06523853500",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "Ajay",
+      "email": "ajay@rising.com",
+      "phone": "6542368892",
+      "active": true,
+      "id": 3
+    }
+  ]
+}
